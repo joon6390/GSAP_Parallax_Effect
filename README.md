@@ -11,7 +11,7 @@ GSAP의 강력한 플러그인인 Parallax ScrollTrigger에 대해서 정리했�
 Parallax ScrollTrigger는 사용하기도 쉽고, 다양한 커스터마이징 옵션도 제공합니다. 
 이 라이브러리를 사용하여 창의적이고 인상적인 웹 페이지를 만들 수 있을 것입니다.
 
-## 완성작 보기
-https://joon6390.github.io/
+## 연습 완성작 보기
+[https://joon6390.github.io/](https://joon6390.github.io/GSAP_Parallax_Effect/gsap01.html)
 
 
